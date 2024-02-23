@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CreateFeedbackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateGoalorTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DocentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GoalOverviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReflectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentOverviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FeedbackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateGoalorTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
